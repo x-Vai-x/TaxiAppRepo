@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTaxiApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_plan_route">PlanRouteActivity</string>
+    <string name="title_activity_calculate_tariff">CalculateTariffActivity</string>
+    <string name="title_activity_calcualte_tariff_info">CalcualteTariffInfoActivity</string>
+</resources>
